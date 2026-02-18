@@ -1,0 +1,8 @@
+{
+	"discordToken": "YOUR_DISCORD_BOT_TOKEN",
+	"botUserId": "YOUR_BOT_USER_ID",
+	"semsearchUrl": "",
+	"opencodeUrl": "http://localhost:4096",
+	"channels": [""],
+	"allowedUsers": [""]
+}

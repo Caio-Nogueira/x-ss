@@ -1,0 +1,18 @@
+# Configuration files
+config.json
+.env
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+src/system-prompt.txt
